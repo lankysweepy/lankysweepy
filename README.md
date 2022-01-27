@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @lankysweepy
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning unity
+hi
 
 
 
